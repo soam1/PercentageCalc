@@ -43,4 +43,9 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="enter_your_number">Enter your Number:</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="p_calculator">P Calculator</string>
+    <string name="enter_percent">Enter percent:</string>
 </resources>
